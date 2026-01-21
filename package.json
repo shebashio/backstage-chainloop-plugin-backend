@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@backstage/backend-common": "^0.22.0",
-    "@backstage/backend-defaults": "^0.2.18",
+    "@backstage/backend-defaults": "^0.12.2",
     "@backstage/backend-plugin-api": "^0.6.18",
     "@backstage/config": "^1.2.0",
     "@types/express": "*",
